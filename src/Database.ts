@@ -30,7 +30,7 @@ class Database {
     }
 
     this.state.users.push(createdUser)
-
+    
     return createdUser
   }
 
